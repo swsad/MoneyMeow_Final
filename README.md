@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 招财喵
 
-You can use the [editor on GitHub](https://github.com/swsad/MoneyMeow_Final/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 文档
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**命名规范**：用`-`连接编号和文档名，即`XX-XX-doc.md`，并且所有字母小写，例如`2-team-profile.md`
 
-```markdown
-Syntax highlighted code block
+**文档链接**：在`index.md`中添加链接，网址为`https://swsad.github.io/MoneyMeow_Final`加上文档路径和去掉`.md`的文档名，例如`https://swsad.github.io/MoneyMeow_Final/1-about`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 图片
 
-**Bold** and _Italic_ and `Code` text
+**存储路径**：在`imgs`文件夹中新建文件夹，名字与对应的文档相同，在该目录下存储文档引用的图片，例如在`README`文件夹中存储`README.md`引用的图片
 
-[Link](url) and ![Image](src)
-```
+**图片链接**：在文档中引用图片的链接为`https://github.com/swsad/MoneyMeow_Final/raw/master/imgs`加上文档名和图片名，例如`https://github.com/swsad/Dashboard/raw/master/imgs/README/KANBAN.png`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swsad/MoneyMeow_Final/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
