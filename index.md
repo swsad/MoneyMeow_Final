@@ -4,7 +4,7 @@
 
 
 
-## 最终软件制品目录
+## 软件制品目录
 
 1、[安装部署说明](https://swsad.github.io/MoneyMeow_Final/1-安装部署说明)
 
