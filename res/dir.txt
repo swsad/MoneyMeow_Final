@@ -1,0 +1,57 @@
+卷 文件 的文件夹 PATH 列表
+卷序列号为 00740073 000B:6C07
+F:.
+├─cloudfunctions
+│  ├─add_info
+│  ├─ask_question
+│  ├─clean_verification
+│  ├─fill_in_questionnaire
+│  ├─get_all_questionnaire
+│  ├─get_answer
+│  ├─get_balance
+│  ├─get_balance_record
+│  ├─get_question
+│  ├─get_questionnaire_detail
+│  ├─get_reply
+│  ├─get_user_question
+│  ├─get_user_questionnaire
+│  ├─login
+│  ├─recv_verification
+│  ├─release_questionnaire
+│  ├─reply_question
+│  ├─send_verification
+│  ├─update_balance
+│  ├─update_info
+│  └─update_like
+├─miniprogram
+│  ├─images
+│  ├─pages
+│  │  ├─aboutUs
+│  │  ├─answerQA
+│  │  ├─customerService
+│  │  ├─item
+│  │  ├─login
+│  │  ├─mine
+│  │  ├─myAnswer
+│  │  ├─myInfo
+│  │  ├─myQuestion
+│  │  ├─myWallet
+│  │  ├─posted
+│  │  ├─publish2
+│  │  ├─QA
+│  │  ├─questionnaire
+│  │  └─task
+│  ├─style
+│  └─test
+│      ├─addFunction
+│      ├─chooseLib
+│      ├─databaseGuide
+│      ├─deployFunctions
+│      ├─index
+│      ├─storageConsole
+│      ├─testCloudFunction
+│      └─userConsole
+└─UIDesign
+    └─UIStaticGraph
+        ├─图标栏
+        └─废案集
